@@ -325,7 +325,8 @@ class CountMissing:
     def missing(self):
         self.added += 0
         return 0
-        ```
+
+```
 다른 언어에서라면 이제 CountMissing의 인터페이스를 수용하도록 defaultdict를 수정해야 한다고 생각할 수 있다.
 하지만 파이썬에서는 일급함수 덕분에 객체로 CountMissing.missing 메서드를 직접 참조해서 defaultdict의 기본값 후크로 넘길 수 있다.
 ```
