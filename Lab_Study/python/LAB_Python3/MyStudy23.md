@@ -5,6 +5,7 @@
 API는 이런 후크(hook)를 이용해서 작성한 코드를 실행 중에 호출한다.
 예를 들어 list의 sort 메소드에는 key라는 추가적인 인자를 받을 수 있다.
 
+```
 names = ['안철수', '안안철수', '안안안철수', '안안안안안철수']
 names.sort(key=lambda x: len(x), reverse=True)
 # 글자 크기의 내림차순으로 리스트를 정렬한다.
@@ -12,6 +13,7 @@ names.sort(key=lambda x: len(x), reverse=True)
 print(names)
 
 >>> ['안안안안안철수', '안안안철수', '안안철수', '안철수']
+```
 람다 함수를 후크로 받아서 정렬의 방법을 사용자화했다.
 
 
