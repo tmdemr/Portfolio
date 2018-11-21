@@ -24,7 +24,7 @@ print(x)
 y = square
 
 print ("\n square : ")
-print (square)
+print (square) # 함수를 기억하고  메모리를 표시
 print ("\n y : ")
 print (y)
 
