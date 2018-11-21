@@ -89,6 +89,7 @@ assert count == 2
 
 상태 보존용으로 nonlocal과 같은 클로저를 사용하면 상태가 없는 예제의 함수보다 이해하기 어렵다는 단점이 있다.
 또 다른 방법은 보존할 상태를 캡슐화하는 작은 클래스를 정의하는 것이다.
+
 ```
 class CountMissing:
     def __init__(self):
@@ -97,9 +98,11 @@ class CountMissing:
     def missing(self):
         self.added += 0
         return 0
-        ```
+```
+        
 다른 언어에서라면 이제 CountMissing의 인터페이스를 수용하도록 defaultdict를 수정해야 한다고 생각할 수 있다.
 하지만 파이썬에서는 일급함수 덕분에 객체로 CountMissing.missing 메서드를 직접 참조해서 defaultdict의 기본값 후크로 넘길 수 있다.
+
 ```
 counter = CountMissing()
 result = defaultdict(counter.Missing, current)
@@ -108,6 +111,7 @@ for key, amount in increments:
     result[key] += amount
 assert counter.added == 2
 ```
+
 위의 예를 조금만 더 업그레이드해보자. 코드를 처음 보는 사람들은 `counter`와 `missing` 두 개 이상을 파악해야 한다.
 이떄 `__call__`를 사용해서 가독성을 조금 더 높여보자.
 
