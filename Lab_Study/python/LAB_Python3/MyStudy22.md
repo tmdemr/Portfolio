@@ -89,7 +89,7 @@ class WeightedGradebook:
 	# 생략 ...
 	def report_grade(self, name, subject, score, weight):
 		by_subject = self._grades[name]
-		grade_list = by_subject.setdefault(subject, [])
+		grade_list = by_subject.setdefault(subject, []) # 과목에 해당하는 성적과 가중치가 들어갈 딕셔너리를 만듬
 		grade_list.append(score, list)
 
 
@@ -187,16 +187,20 @@ class Student:
 
 ```
 <br> 마지막으로 학생의 이름을 키로 사용해 동적으로 모든 학생을 담을 컨테이너를 작성한다.
+
+
 ```python
 class Gradebook(object):
 	def __init__(self):
 		return self._students = {}
 
 	def student(self):
-		if name not in self._students:
+		if name not in self._students: # 만약 학생 이름이 목록에 없으면 추가.
 			self._students[name] = Students()
 		return self._students[name]
 ```
+
+
 <br>이 세 클래스의 코드 줄 수는 이전에 구현한 코드의 두 배에 가깝다.
 하지만, 이 코드가 훨씬 이해하기 쉽다. 예제도 더 명확하고 확장하기도 쉽다
 
