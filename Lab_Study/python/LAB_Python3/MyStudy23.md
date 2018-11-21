@@ -110,6 +110,7 @@ assert counter.added == 2
 ```
 위의 예를 조금만 더 업그레이드해보자. 코드를 처음 보는 사람들은 `counter`와 `missing` 두 개 이상을 파악해야 한다.
 이떄 `__call__`를 사용해서 가독성을 조금 더 높여보자.
+
 ```
 class BetterCountMissing:
     def __init__(self):
