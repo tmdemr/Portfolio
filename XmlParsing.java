@@ -1,14 +1,21 @@
-package javaProjectTest;
+package parser;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+
+import java.util.LinkedList;
+import java.util.List;
+import java.util.ArrayList;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+
 public class XmlParsing {
+	public static List<HospitalDB> hosData = new LinkedList<>();
+	//public static List<HospitalDB> HosData = new ArrayList<HospitalDB>();
 
     // tag값의 정보를 가져오는 메소드
 	private static String getTagValue(String tag, Element eElement) {
@@ -19,8 +26,19 @@ public class XmlParsing {
 	    return nValue.getNodeValue();
 	}
 
+
+	/*
+	public static String isNullString(String isNode){
+		if (isNode == null){
+			isNode = "데이터 없음";
+			return isNode;
+		}else
+		return isNode;
+	}*/
+
 	public static void main(String[] args) {
-		int page = 1;	// 페이지 초기값 
+		int page = 1;	// 페이지 초기값
+
 		try{
 			while(true){
 				// parsing할 url 지정(API 키 포함해서)
@@ -36,15 +54,39 @@ public class XmlParsing {
 				
 				// 파싱할 tag
 				NodeList nList = doc.getElementsByTagName("item");
-				//System.out.println("파싱할 리스트 수 : "+ nList.getLength());
-				
+				System.out.println("파싱할 리스트 수 : "+ nList.getLength());
+
 				for(int temp = 0; temp < nList.getLength(); temp++){
 					Node nNode = nList.item(temp);
 					if(nNode.getNodeType() == Node.ELEMENT_NODE){
 						
 						Element eElement = (Element) nNode;
+
+						String dutyaddr = getTagValue("dutyaddr", eElement);
+						String dutyEmcls = getTagValue("dutyEmcls", eElement);
+						String dutyEmclsName = getTagValue("dutyEmclsName", eElement);
+						String dutyName = getTagValue("dutyName", eElement);
+						String dutyTel1 = getTagValue("dutyTel1", eElement);
+						String dutyTel3 = getTagValue("dutyTel3", eElement);
+						String wgs84Lat = getTagValue("wgs84Lat", eElement);
+						String wgs84Lon = getTagValue("wgs84Lon", eElement);
+
+/*
+						isNullString(dutyaddr);
+						isNullString(dutyEmcls);
+						isNullString(dutyEmclsName);
+						isNullString(dutyName);
+						isNullString(dutyTel1);
+						isNullString(dutyTel3);
+						isNullString(wgs84Lat);
+						isNullString(wgs84Lon);
+*/
+						//new hosData(dutyaddr, dutyEmcls, dutyEmclsName, dutyName, dutyTel1, dutyTel3, wgs84Lat, wgs84Lon);
+
+						//(dutyaddr, dutyEmcls, dutyEmclsName, dutyName, dutyEmcls, dutyEmcls);
 						System.out.println("######################");
 						//System.out.println(eElement.getTextContent());
+
 						System.out.println("기관주소  : " + getTagValue("dutyAddr", eElement));
 						System.out.println("응급의료기관분류  : " + getTagValue("dutyEmcls", eElement));
 						System.out.println("응급의료기관분류명  : " + getTagValue("dutyEmclsName", eElement));
