@@ -19,6 +19,8 @@
 ## 연구실 활동
 - GAZEBO를 활용한 주행 시뮬레이션 시험장 구현
 - ROS(Robot Operating System; 로봇 제어를 위한 메타 운영체제)를 활용한 자율 주행 시스템 구현
+- TOPCIT 400점 획득
+  - [What is TOPCIT?](https://www.topcit.or.kr/info/overview/overview.do)
 
 ## 수행 과제
 - System Programming
