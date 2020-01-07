@@ -22,10 +22,10 @@
 ## 수행 과제
 - Computer Architecture
   - [Arduino Programming](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Arduino%20Programming)
-  - [Enhanced Arduino Programming]https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Enhanced%20Arduino%20Programming)
+  - [Enhanced Arduino Programming](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Enhanced%20Arduino%20Programming)
 - Object-oriented Programming
-  - [Autonomous Driving System Used ROS](https://github.com/yongjjang/Object-Oriented-Programming)
+  - [어데있노? 병원!](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Object-Oriented%20Programming)
 - Visual Programming
-  - [Launch Pad Concert](https://github.com/yongjjang/Visual-Programming)
+  - [Launch Pad Concert](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Visual%20Programming)
 - File Process
-  - [Bank Deposit & Withdrawal Program](File-Process)
+  - [Bank Deposit & Withdrawal Program](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/File%20Processing%20Theory)
