@@ -9,18 +9,17 @@ FirebaseDatabase database = FirebaseDatabase.getInstance;
 // getReference() 메소드를 통해 데이터베이스에 접근
 DatabaseReference myRef = database.getReference();
 
+
+
 // 또는 한 줄로 만들어 사용하는 것도 가능.
 DatabaseReference database = FirebaseDatabase.getInstance().getReference();
 
-
-
-// 데이터베이스에 값을 저장하는 방법은 다음과 같음.
-// message라는 이름을 가진 Key의 Value를 "Hello, World"로 설정하라.라는 명령 :
+//데이터베이스에 값을 저장하는 방법은 다음과 같음.
 DatabaseReference myRef = database.getReference("message")
 myRef.setValue("Hello, World!");
 
 /*
-parentt_tree
+parent_tree
  |
   ->   Key   : Value
   -> message : "Hello, World!")
