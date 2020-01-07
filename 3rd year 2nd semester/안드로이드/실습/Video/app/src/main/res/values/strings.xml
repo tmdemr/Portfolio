@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VideoList</string>
+    <string name="app_name2">VideoDetail</string>
+
+
+    <string name="title1">movie_test</string>
+    <string name="place1">movie_place1</string>
+    <string name="time1">movie_time1</string>
+
+    <string name="title2">movie_title2</string>
+    <string name="place2">movie_place2</string>
+    <string name="time2">movie_time2</string>
+</resources>
