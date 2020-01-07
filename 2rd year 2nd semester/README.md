@@ -16,12 +16,15 @@
 ## 연구실 활동
 
 - 18년 10월 경 네트워크 & 로봇 연구실 입실
+
 - Python, C++ 언어 심화 학습
 
 
-## 수행 과제
+## 수행 과제 및 프로젝트
 - Computer Architecture
+
   - [Arduino Programming](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Arduino%20Programming)
+  
   - [Enhanced Arduino Programming](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Enhanced%20Arduino%20Programming)
 - Object-oriented Programming
   - [어데있노? 병원!](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Object-Oriented%20Programming)
