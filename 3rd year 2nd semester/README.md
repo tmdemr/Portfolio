@@ -1,7 +1,4 @@
-## 컴퓨터 소프트웨어 공학과
-### 3학년 2학기
-
----
+# 3학년 2학기
 
 ## 수강 과목
 - 객체지향 모델링
@@ -10,7 +7,7 @@
 - 모바일 프로그래밍
 - 데이터베이스 응용
 
-## 테스팅
+## 테스팅 관련
 - ISTQB 자격증 취득
   - [What is ISTQB?](https://www.sten.or.kr/bbs/board.php?bo_table=sten_ist)
 - 크라우드 테스팅 경진대회 **대상 수상**
@@ -18,10 +15,14 @@
 
 ## 연구실 활동
 - GAZEBO를 활용한 주행 시뮬레이션 시험장 구현
+
 - ROS(Robot Operating System; 로봇 제어를 위한 메타 운영체제)를 활용한 자율 주행 시스템 구현
+
 - TOPCIT 400점 획득
+
   - [What is TOPCIT?](https://www.topcit.or.kr)
-  ![TOPCIT](./TOPCIT.PNG)
+  
+![TOPCIT](./TOPCIT.PNG)
 
 
 ## 수행 과제
