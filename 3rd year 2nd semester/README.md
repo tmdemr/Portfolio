@@ -35,7 +35,7 @@
 
 ## 수행 과제
 - System Programming
-  - [Programming Environment on Linux](https://github.com/yongjjang/Lab3)
+  - [Programming Environment on Linux](https://github.com/yongjjang/Lab2)
   - [File processing & Process & Interprocess Communication Techniques on Linux](https://github.com/yongjjang/Lab3)
   - [socket & thread & GUI on Linux](https://github.com/yongjjang/Lab4)
   - [Shell Program](https://github.com/yongjjang/Shell-Program)
