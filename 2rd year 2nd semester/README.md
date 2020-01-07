@@ -32,3 +32,7 @@
   - [Launch Pad Concert](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Visual%20Programming)
 - File Process
   - [Bank Deposit & Withdrawal Program](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/File%20Processing%20Theory)
+
+- [IT 융합과 창의적인 생활](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/IT%EC%9C%B5%ED%95%A9%EA%B3%BC%EC%B0%BD%EC%9D%98%EC%A0%81%EC%9D%B8%EC%83%9D%ED%99%9C)
+  - Cloud Service에 대한 개념 확립
+  - IOT 기술의 개념 확립, 사용 사례와 향후 전망 
