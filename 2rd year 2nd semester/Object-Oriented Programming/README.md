@@ -1,4 +1,5 @@
-# Java Project
+# 어데있노? 병원!
+Object-Oriented Programming Java Project
 
 ## 개요
 -  정보가 담긴 Open API를 활용한 병원의 공실, 전화번호, 위치, 병원 이름 등의 정보를 표시하는 프로그램
