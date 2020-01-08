@@ -48,4 +48,4 @@
 - Mobile Programming
   - [DayLight](https://github.com/InhwanJeong/DayLight) App
 - Database
-  - [Employee Management System](https://github.com/yongjjang/Employee-management-system)
+  - [Employee Management System](https://github.com/yongjjang/Service-Center-System)
