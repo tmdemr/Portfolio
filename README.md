@@ -16,3 +16,5 @@ Dong-Eui Univ. Computer Software Engineering
 - 소프트웨어 품질 관리
 - 프로젝트 관리
 - 등등..
+
+블로그 : https://taemian.tistory.com/
