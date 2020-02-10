@@ -19,7 +19,7 @@
   - Robot Modeling
   
   - 각종 패키지 사용법에 대한 세미나 진행
-  - [엘리베이터 이용 가능한 다층 이동 로봇 논문](http://dongeui.dcollection.net/public_resource/pdf/200000187095_20200108065749.pdf) 분석
+  - [엘리베이터 이용 가능한 다층 이동 로봇 논문](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=c070c6e21caaba51ffe0bdc3ef48d419) 분석
   - Map 작성
 
 - 자율 주행 용어 및 관련 기술 연구 및 세미나 진행
