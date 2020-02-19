@@ -13,6 +13,7 @@
 - Darknet-Yolo를 활용한 객체 인식
 - 소프트웨어 품질 관리
 - 프로젝트 관리
+- JSP
 - 등등..
 
 블로그 : https://taemian.tistory.com/
