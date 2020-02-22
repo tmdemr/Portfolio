@@ -7,10 +7,7 @@
 
 ### 연구 활동
 
-- OpenCV를 통한 비전 처리
-- 시뮬레이션을 활용한 로봇 모델링
-- 로봇 소프트웨어 구현 및 테스팅 
-- GAZEBO를 활용한 주행 시뮬레이션 시험장 구현
+- Camera Vision 처리
 - ROS(Robot Operating System; 로봇 제어를 위한 메타 운영체제)
   - Robot(SDF, URDF, Xacro) Modeling
   - 각종 ROS 패키지 사용법에 대한 세미나 진행
@@ -19,6 +16,9 @@
   - 자율 주행 용어 및 관련 기술 연구 및 세미나 진행
   - IPM(역원근 사상) 등 [논문](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=eb840133209fe4fa) 분석
   - ROS를 활용한 자율 주행 시스템 구현
+  - 시뮬레이션을 활용한 로봇 모델링
+  - 로봇 소프트웨어 구현 및 테스팅 
+  - GAZEBO를 활용한 주행 시뮬레이션 시험장 구현
 - Effective Python & C++
 - JSP
 - 소프트웨어 품질 관리
