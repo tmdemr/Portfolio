@@ -52,7 +52,7 @@
 - TOPCIT 400점 획득
   - [What is TOPCIT?](https://www.topcit.or.kr)
 
-![TOPCIT](./3rd year 2nd semester/TOPCIT.PNG)
+![TOPCIT](https://github.com/yongjjang/Portfolio/blob/master/3rd%20year%202nd%20semester/TOPCIT.PNG)
 
 
 
