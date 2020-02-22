@@ -63,13 +63,12 @@
   - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algotithm)
   
 - ROS & Python
-  
+
   - [Camera Vision 처리를 활용한 시뮬레이션 내 자율 주행 구현](https://github.com/yongjjang/Autonomous-Driving-Car)
-  
-  
 
 - C
   - [Programming Environment on Linux](https://github.com/yongjjang/Lab2)
+  
   - [File processing & Process & Interprocess Communication Techniques on Linux](https://github.com/yongjjang/Lab3)
   - [socket & thread & GUI on Linux](https://github.com/yongjjang/Lab4)
   - [쉘 프로그램 구현](https://github.com/yongjjang/Shell-Program)
@@ -77,21 +76,17 @@
 - [PL\SQL, SQL, ProC, Oracle Database를 활용한 인사기록부](https://github.com/yongjjang/Service-Center-System)
   - [간단한 은행 입출금 프로그램 (Transaction Toy Project)](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/File%20Processing%20Theory)
 
-
-
 - Arduino
-- [아두이노 기초](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Arduino%20Programming)
+  - [아두이노 기초](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Arduino%20Programming)
+  
   - [아두이노 응용](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Enhanced%20Arduino%20Programming)
-
-
 
 - C++
   - [합주를 위한 디지털 런치패드](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Visual%20Programming)
 
-
-
 - Java
   - [어데있노? 병원!](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Object-Oriented%20Programming)
+  
   - [디자인 패턴을 활용한 인사기록부](https://github.com/yongjjang/Portfolio/tree/master/3rd%20year%201nd%20semester/Software%20design/%EC%9D%B8%EC%82%AC%EA%B8%B0%EB%A1%9D%EB%B6%80)
   - [계획 알람 캘린더 App](https://github.com/InhwanJeong/DayLight)
 
