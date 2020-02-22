@@ -3,14 +3,12 @@
 
 ##### 이태용. 
 
-진행한 과제와 프로젝트를 업로드합니다.
+진행한 프로젝트를 업로드합니다.
 
-###### I Love Emacs
+###### n I Luv Emacs!
 
----
 동의대 이종민 교수님의 Network & Robot Software(ROS) 연구실 소속입니다.
-
-
+---
 
 ### 연구 활동
 
@@ -43,21 +41,21 @@
 
   - [전자신문 뉴스 원문 바로가기](http://etnews.com/20191115000335)
 
-### 
+
 
 ### 관심 분야
 
-- ROS와 Darknet-Yolo을 접목한 객체 인식
+- ROS
 - AI(Machine Learning(Deep Learning))
+- ROS와 Darknet-Yolo을 접목한 객체 인식
+
 - Back-End 기술(Django, Flask, Spring)
-
-
+- n I Luv **Emacs**!
 
 ### 기타
 
 - TOPCIT 400점 획득
   - [What is TOPCIT?](https://www.topcit.or.kr)
-
 
 ![TOPCIT](./3rd year 2nd semester/TOPCIT.PNG)
 
@@ -67,9 +65,7 @@
 
 - Algorithm
   
-  - [Programmers 코딩 테스트](https://github.com/yongjjang/Portfolio/tree/master/Algotithm)
-  
-  
+  - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algotithm)
   
 - ROS & Python
   
@@ -108,9 +104,6 @@
 
 - HTML, CSS, Node.js(보수 예정)
   - [Your-Time](https://github.com/jeonseun/YourTime-website)
-
-
-
 
 
 블로그 : https://taemian.tistory.com/
