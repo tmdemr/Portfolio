@@ -6,11 +6,10 @@
 동의대 이종민 교수님의 Network & Robot Software(ROS) 연구실 소속입니다.
 
 ### 연구 활동
-
-- Camera Vision 처리
 - ROS(Robot Operating System; 로봇 제어를 위한 메타 운영체제)
   - Robot(SDF, URDF, Xacro) Modeling
   - 각종 ROS 패키지 사용법에 대한 세미나 진행
+  - Camera Vision 처리
   - [엘리베이터 이용 가능한 다층 이동 로봇 논문](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=c070c6e21caaba51ffe0bdc3ef48d419) 분석
   - SLAM을 활용한 실내 Map 작성 및 Navigation
   - 자율 주행 용어 및 관련 기술 연구 및 세미나 진행
