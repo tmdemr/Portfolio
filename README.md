@@ -77,7 +77,7 @@
   - [socket & thread & GUI on Linux](https://github.com/yongjjang/Lab4)
   - [쉘 프로그램 구현](https://github.com/yongjjang/Shell-Program)
   - [채팅 프로그램 구현 Used Qt](https://github.com/yongjjang/Chatting-Program)
-- [PL\SQL, SQL, ProC, Oracle Database를 활용한 인사기록부](https://github.com/yongjjang/Service-Center-System)
+  - [PL\SQL, SQL, ProC, Oracle Database를 활용한 인사기록부](https://github.com/yongjjang/Service-Center-System)
   - [간단한 은행 입출금 프로그램 (Transaction Toy Project)](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/File%20Processing%20Theory)
 
 - Arduino
