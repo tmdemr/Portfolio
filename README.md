@@ -44,11 +44,12 @@
 
 ### 관심 분야
 
-- ROS
+- ROS, ROS와 Darknet-Yolo을 접목한 객체 인식
 - AI(Machine Learning(Deep Learning))
-- ROS와 Darknet-Yolo을 접목한 객체 인식
-
-- Back-End 기술(Django, Flask, Spring)
+- Back-End(Django, Flask, Spring)
+- Docker
+- AWS, CI
+- 테스팅, 테스트 자동화
 - n I Luv **Emacs**!
 
 ### 기타
