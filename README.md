@@ -96,7 +96,7 @@
   - [Your-Time](https://github.com/jeonseun/YourTime-website)
   
 - Algorithm
-  - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algotithm)
+  - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algorithm)
 
 
 블로그 : https://taemian.tistory.com/
