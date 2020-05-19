@@ -2,6 +2,7 @@
 #### 이태용, 4학년 1학기 재학 中
 진행한 프로젝트를 정리하여 공유합니다.
 
+#### 블로그 : https://taemian.tistory.com/
 ---
 동의대 이종민 교수님의 Network & Robot Software(ROS) 연구실 소속입니다.
 
@@ -99,5 +100,5 @@
   - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algorithm)
 
 
-블로그 : https://taemian.tistory.com/
+
 
