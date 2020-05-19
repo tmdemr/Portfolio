@@ -64,7 +64,7 @@
 ## 수행 프로젝트
 - Python
   - [Flask를 활용한 간단한 병원 전화번호부](https://github.com/yongjjang/Flask/tree/master/pharmacy_phonebook)
-  - [Flask를 활용한 간단한 약국 공적 마스크 현황 확인](https://github.com/yongjjang/Flask/tree/master/pharmacy_phonebook)
+  - [Flask를 활용한 간단한 약국 공적 마스크 현황 확인](https://github.com/yongjjang/Flask/tree/master/show_me_the_mask)
 
 - ROS
   - [Camera Vision 처리를 활용한 시뮬레이션 내 자율 주행 구현](https://github.com/yongjjang/Autonomous-Driving-Car)
