@@ -54,7 +54,7 @@
 
 ### 기타
 
-- TOPCIT 400점 획득
+- TOPCIT 3수준 획득
   - [What is TOPCIT?](https://www.topcit.or.kr)
 
 ![TOPCIT](https://github.com/yongjjang/Portfolio/blob/master/3rd%20year%202nd%20semester/TOPCIT.PNG)
@@ -62,13 +62,11 @@
 
 
 ## 수행 프로젝트
+- Python
+  - [Flask를 활용한 간단한 병원 전화번호부](https://github.com/yongjjang/Flask/tree/master/pharmacy_phonebook)
+  - [Flask를 활용한 간단한 약국 공적 마스크 현황 확인](https://github.com/yongjjang/Flask/tree/master/pharmacy_phonebook)
 
-- Algorithm
-  
-  - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algotithm)
-  
-- ROS & Python
-
+- ROS
   - [Camera Vision 처리를 활용한 시뮬레이션 내 자율 주행 구현](https://github.com/yongjjang/Autonomous-Driving-Car)
 
 - C
@@ -79,7 +77,6 @@
   - [쉘 프로그램 구현](https://github.com/yongjjang/Shell-Program)
   - [채팅 프로그램 구현 Used Qt](https://github.com/yongjjang/Chatting-Program)
   - [PL\SQL, SQL, ProC, Oracle Database를 활용한 인사기록부](https://github.com/yongjjang/Service-Center-System)
-  - [간단한 은행 입출금 프로그램 (Transaction Toy Project)](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/File%20Processing%20Theory)
 
 - Arduino
   - [아두이노 기초](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Computer%20Architecture/Arduino%20Programming)
@@ -95,10 +92,11 @@
   - [디자인 패턴을 활용한 인사기록부](https://github.com/yongjjang/Portfolio/tree/master/3rd%20year%201nd%20semester/Software%20design/%EC%9D%B8%EC%82%AC%EA%B8%B0%EB%A1%9D%EB%B6%80)
   - [계획 알람 캘린더 App](https://github.com/InhwanJeong/DayLight)
 
-
-
 - HTML, CSS, Node.js(보수 예정)
   - [Your-Time](https://github.com/jeonseun/YourTime-website)
+  
+- Algorithm
+  - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algotithm)
 
 
 블로그 : https://taemian.tistory.com/
