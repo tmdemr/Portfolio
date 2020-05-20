@@ -57,6 +57,7 @@
   - 영상 처리 (OpenCV)
   - 로봇 제어
   - 로봇 시뮬레이션([Gazebo](http://gazebosim.org/))
+  - 자율 주행
   - 시뮬레이션 스크립트 작성 (SDF, URDF; world, model, robot etc..)
 
 - 선호 환경
