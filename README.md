@@ -1,6 +1,6 @@
 ### 컴퓨터 소프트웨어 공학과
 #### 이태용, 4학년 1학기 재학 中
-진행한 프로젝트를 정리하여 공유합니다.
+진행했던 프로젝트 및 대내외 활동을 공유합니다.
 
 #### 블로그 : https://taemian.tistory.com/
 ---
@@ -29,9 +29,7 @@
 
 - 프로젝트 관리
 
-
-
-### 테스팅
+### Testing
 
 - ISTQB 자격증 취득
 
@@ -41,9 +39,43 @@
 
   - [전자신문 뉴스 원문 바로가기](http://etnews.com/20191115000335)
 
+### Software
 
+- TOPCIT 3수준 획득
+  - [What is TOPCIT?](https://www.topcit.or.kr)
 
-### 관심 분야
+![TOPCIT](https://github.com/yongjjang/Portfolio/blob/master/3rd%20year%202nd%20semester/TOPCIT.PNG)
+
+### 보유 기술
+- Software Engineering
+  - Data structure, Algorythm, Computer Science, Operation System, Design Pattern
+  - 개발 프로세스
+  - Testing
+
+- ROS
+  - 센서 데이터 처리
+  - 영상 처리 (OpenCV)
+  - 로봇 제어
+  - 로봇 시뮬레이션([Gazebo](http://gazebosim.org/))
+  - 시뮬레이션 스크립트 작성 (SDF, URDF; world, model, robot etc..)
+
+- 선호 환경
+  - Linux, OS X
+- 서버 원격 제어
+  - ssh, X Server
+  
+- Git
+- 임베디드 프로그래밍(Arduino, Raspberry Pi)
+- Nginx, Apache
+- Flask
+- RDBMS(Oracle Database, MySQL, MariaDB), SQL Query 작성, Trigger 구현
+- Android
+- **Python(가장 선호)**, C, C++, Java
+- Docker
+
+- Emacs, JetBrain IDE
+
+### 현재 관심 분야
 
 - ROS, ROS와 Darknet-Yolo을 접목한 객체 인식
 - AI(Machine Learning(Deep Learning))
@@ -51,16 +83,6 @@
 - Docker
 - AWS, CI
 - 테스팅, 테스트 자동화
-- n I Luv **Emacs**!
-
-### 기타
-
-- TOPCIT 3수준 획득
-  - [What is TOPCIT?](https://www.topcit.or.kr)
-
-![TOPCIT](https://github.com/yongjjang/Portfolio/blob/master/3rd%20year%202nd%20semester/TOPCIT.PNG)
-
-
 
 ## 수행 프로젝트
 - Python
@@ -91,6 +113,7 @@
   - [어데있노? 병원!](https://github.com/yongjjang/Portfolio/tree/master/2rd%20year%202nd%20semester/Object-Oriented%20Programming)
   
   - [디자인 패턴을 활용한 인사기록부](https://github.com/yongjjang/Portfolio/tree/master/3rd%20year%201nd%20semester/Software%20design/%EC%9D%B8%EC%82%AC%EA%B8%B0%EB%A1%9D%EB%B6%80)
+- Android
   - [계획 알람 캘린더 App](https://github.com/InhwanJeong/DayLight)
 
 - HTML, CSS, Node.js(보수 예정)
@@ -98,6 +121,16 @@
   
 - Algorithm
   - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algorithm)
+
+
+
+
+
+
+
+
+
+
 
 
 
