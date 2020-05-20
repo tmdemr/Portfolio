@@ -87,6 +87,7 @@
 
 ## 수행 프로젝트
 - Python
+  - [Pygame을 활용한 불쌍한 학부생 쏟아지는 과제를 수행하는 게임](https://github.com/yongjjang/Under-graduation-tale)
   - [Flask를 활용한 간단한 병원 전화번호부](https://github.com/yongjjang/Flask/tree/master/pharmacy_phonebook)
   - [Flask를 활용한 간단한 약국 공적 마스크 현황 확인](https://github.com/yongjjang/Flask/tree/master/show_me_the_mask)
 
