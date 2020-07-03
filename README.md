@@ -77,7 +77,7 @@
 - Emacs, JetBrain IDE
 
 ### 현재 관심 분야
-
+- Blockchain; DApp 
 - ROS, ROS와 Darknet-Yolo을 접목한 객체 인식
 - AI(Machine Learning(Deep Learning))
 - Back-End(Django, Flask, Spring)
