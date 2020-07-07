@@ -78,15 +78,15 @@
 
 ### 현재 관심 분야
 - Blockchain; DApp 
-- ROS, ROS와 Darknet-Yolo을 접목한 객체 인식
-- AI(Machine Learning(Deep Learning))
+- React.js
 - Back-End(Django, Flask, Spring)
+- AWS, CI, CD
+- ROS, ROS와 Darknet-Yolo을 접목한 객체 인식
 - Docker
-- AWS, CI
-- 테스팅, 테스트 자동화
 
 ## 수행 프로젝트
 - Python
+  - [요구사항 명세서에 근거한 도서 관리 웹 어플리케이션 서버 구축](https://github.com/yongjjang/book-rental-service)
   - [Pygame을 활용한 불쌍한 학부생이 쏟아지는 과제를 수행하는 게임](https://github.com/yongjjang/Under-graduation-tale)
   - [Flask를 활용한 간단한 병원 전화번호부](https://github.com/yongjjang/Flask/tree/master/pharmacy_phonebook)
   - [Flask를 활용한 간단한 약국 공적 마스크 현황 확인](https://github.com/yongjjang/Flask/tree/master/show_me_the_mask)
