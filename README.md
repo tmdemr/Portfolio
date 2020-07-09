@@ -8,7 +8,7 @@
 동의대 이종민 교수님의 Network & Robot Software(ROS) 연구실 소속입니다.
 
 ### 선호 환경
-  - **Linux**, OS X
+  - **Linux, OS X**
   - **Python**, C, C++, Java
 
 ### 보유 기술
@@ -22,7 +22,8 @@
   
   - Unified Process
   - Software Development Process
-  - Testing
+  - **Testing**
+  - 소프트웨어[기획, 분석, 설계, 구현, 테스팅, 배포] **개발 주기별 산출물 및 다이어그램 작성**
 
 - ROS
   - 센서 데이터 처리
