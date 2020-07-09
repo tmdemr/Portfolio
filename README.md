@@ -57,8 +57,12 @@
 - Editor
   - JetBrain IDE. and **I luv Emacs!**
   
-### 현재 관심 분야(학습 중)
-- Blockchain; DApp 
+### 하계방학 간 학습 목표
+- Blockchain
+  - [부산시 교육 과제](https://www.busan.go.kr/nbtnewsBU/1437096?curPage=&srchBeginDt=2020-05-27&srchEndDt=2020-06-03&srchKey=&srchText=) 참여 중
+  - 기간
+    - 2020. 06. 15 ~ 2020. 08. 28
+    
 - React.js
 - Back-End(Django, Flask, Spring)
 - AWS, CI, CD
@@ -75,6 +79,13 @@
 
   - [전자신문 뉴스 원문 바로가기](http://etnews.com/20191115000335)
 
+### 한이음 프로젝트
+- 주제
+  - 딥러닝 기반 초·중 SW코딩 교육몰 구축(웹-앱)
+  
+- 기간
+  - 2020-05-13 ~ 2020-11-30
+  
 ### Topcit
 - TOPCIT 3수준 획득
   - [What is TOPCIT?](https://www.topcit.or.kr)
