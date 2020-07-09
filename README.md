@@ -7,9 +7,9 @@
 ---
 동의대 이종민 교수님의 Network & Robot Software(ROS) 연구실 소속입니다.
 
-### 선호 환경
-  - **Linux, OS X**
-  - **Python**, C, C++, Java
+### 언어 및 환경
+  - **Linux, OS X(가장 선호)**, Windows
+  - **Python(가장 선호)**, C, C++, Java
 
 ### 보유 기술
 
