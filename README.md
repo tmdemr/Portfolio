@@ -8,7 +8,7 @@
 동의대 이종민 교수님의 Network & Robot Software(ROS) 연구실 소속입니다.
 
 ### 언어 및 환경
-  - **Linux, OS X(가장 선호)**, Windows
+  - **Linux(가장 선호)**, OS X, Windows
   - **Python(가장 선호)**, C, C++, Java
 
 ### 보유 기술
@@ -59,9 +59,11 @@
   
 ### 하계방학 간 학습 목표
 - Blockchain
-  - [부산시 교육 과제](https://www.busan.go.kr/nbtnewsBU/1437096?curPage=&srchBeginDt=2020-05-27&srchEndDt=2020-06-03&srchKey=&srchText=) 참여 중
+  - 주제
+    - 블록체인 기술의 이해 및 관련 프레임워크 숙달
+    - [부산시 교육 과제](https://www.busan.go.kr/nbtnewsBU/1437096?curPage=&srchBeginDt=2020-05-27&srchEndDt=2020-06-03&srchKey=&srchText=) 참여 중
   - 기간
-    - 2020. 06. 15 ~ 2020. 08. 28
+    - 2020-06-15 ~ 2020-08-28
     
 - React.js
 - Back-End(Django, Flask, Spring)
@@ -74,6 +76,9 @@
 - ISTQB 자격증 취득
 
   - [What is ISTQB?](https://www.sten.or.kr/bbs/board.php?bo_table=sten_ist)
+    
+<img src="3rd%20year%202nd%20semester/ISTQB/istqb.png" width="70%" height="70%" />
+  
 
 - 크라우드 테스팅 경진대회 **대상 수상**
 
