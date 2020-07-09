@@ -35,9 +35,10 @@
 
 - Back-end
   - Docker
-  - Nginx, Apache
   
-  - Flask, JSP
+  - Flask
+  - JSP
+  - Nginx, Apache
   - RDBMS(Oracle Database, MySQL, MariaDB), SQL Query 작성, Trigger 구현
 
   
@@ -53,8 +54,15 @@
 
   - Android
   
-- IDE or Editor
-  - Emacs, JetBrain IDE
+- Editor
+  - JetBrain IDE. and **I luv Emacs!**
+  
+### 현재 관심 분야(학습 중)
+- Blockchain; DApp 
+- React.js
+- Back-End(Django, Flask, Spring)
+- AWS, CI, CD
+- Docker
 
 ## Software Engineering
 ### Testing
@@ -73,13 +81,7 @@
 
 ![TOPCIT](https://github.com/yongjjang/Portfolio/blob/master/3rd%20year%202nd%20semester/TOPCIT.PNG)
 
-### 현재 관심 분야
-- Blockchain; DApp 
-- React.js
-- Back-End(Django, Flask, Spring)
-- AWS, CI, CD
-- ROS, ROS와 Darknet-Yolo을 접목한 객체 인식
-- Docker
+
 
 ### 연구 활동
 - ROS(Robot Operating System; 로봇 제어를 위한 메타 운영체제)
