@@ -52,8 +52,7 @@
 
 - etc..
   - Embeded Programming (Arduino, Raspberry Pi)
-
-  - Android
+  - Android 
   
 - Editor
   - JetBrain IDE. and **I luv Emacs!**
@@ -65,7 +64,7 @@
 - AWS, CI, CD
 - Docker
 
-## Software Engineering
+## 대내외활동 및 자격증
 ### Testing
 
 - ISTQB 자격증 취득
@@ -82,9 +81,14 @@
 
 ![TOPCIT](https://github.com/yongjjang/Portfolio/blob/master/3rd%20year%202nd%20semester/TOPCIT.PNG)
 
+### 정보처리기사
+- ~~2020년 1회 정보처리기사 필기 시험 코로나로 인해 연기~~
+- 2020년 2회 정보처리기사 필기 시험 합격
+
+- 2020년 07월 25일 정보처리기사 실기 시험 예정
 
 
-### 연구 활동
+## 연구실 활동
 - ROS(Robot Operating System; 로봇 제어를 위한 메타 운영체제)
   - Camera Vision
   - Robot(SDF, URDF, Xacro) Modeling
