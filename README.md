@@ -23,7 +23,7 @@
   - Unified Process
   - Software Development Process
   - **Testing**
-  - 각 소프트웨어 개발 주기[기획, 분석, 설계, 구현, 테스팅, 배포]**의 산출물 및 다이어그램 작성**
+  - 각 소프트웨어 개발 주기[기획, 분석, 설계, 구현, 테스팅, 배포] **단계별 산출물 및 다이어그램 작성**
 
 - ROS
   - 센서 데이터 처리
@@ -34,14 +34,19 @@
   - 자율 주행
   - 시뮬레이션 스크립트 작성 (SDF, URDF; world, model, robot etc..)
 
-- Back-end
+- **Back-end **
   - Docker
-  
   - Flask
   - JSP
   - Nginx, Apache
   - RDBMS(Oracle Database, MySQL, MariaDB), SQL Query 작성, Trigger 구현
 
+- Front-End
+  - HTML
+  - CSS
+  - Javascript
+  - Ajax
+  - Bootstrap
   
 - 서버 원격 제어
   - ssh, X Server
