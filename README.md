@@ -34,7 +34,7 @@
   - 자율 주행
   - 시뮬레이션 스크립트 작성 (SDF, URDF; world, model, robot etc..)
 
-- **Back-end **
+- **Back-end**
   - Docker
   - Flask
   - JSP
