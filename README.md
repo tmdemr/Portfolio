@@ -148,6 +148,10 @@
   - Pygame
     - [Pygame을 활용한 불쌍한 학부생이 쏟아지는 과제를 수행하는 게임](https://github.com/yongjjang/Under-graduation-tale)
 
+
+- Node.js(보수 예정)
+  - [Your-Time](https://github.com/jeonseun/YourTime-website)
+
 - C
   - [Programming Environment on Linux](https://github.com/yongjjang/Lab2)
   
@@ -172,12 +176,7 @@
   - [디자인 패턴을 활용한 인사기록부](https://github.com/yongjjang/Portfolio/tree/master/3rd%20year%201nd%20semester/Software%20design/%EC%9D%B8%EC%82%AC%EA%B8%B0%EB%A1%9D%EB%B6%80)
 - Android
   - [계획 알람 캘린더 App](https://github.com/InhwanJeong/DayLight)
-
-- HTML, CSS, Node.js(보수 예정)
-  - [Your-Time](https://github.com/jeonseun/YourTime-website)
   
 - Algorithm
   - [Programmers 코딩 테스트 심심할 때 마다 수행 中](https://github.com/yongjjang/Portfolio/tree/master/Algorithm)
-
-
 
