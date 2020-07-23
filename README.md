@@ -86,7 +86,7 @@
 
 - ISTQB 자격증 취득
 
-  - [What is ISTQB?](https://www.sten.or.kr/bbs/board.php?bo_table=sten_ist)
+  - [What is ISTQB?](http://www.kstqb.org/about/about2.asp)
     
 <img src="3rd%20year%202nd%20semester/ISTQB/istqb.png" width="70%" height="70%" />
   
