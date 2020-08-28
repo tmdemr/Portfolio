@@ -1,5 +1,5 @@
 ### 컴퓨터 소프트웨어 공학과
-#### 이태용, 4학년, 하계 방학을 즐기는 中
+#### 이태용. 4학년. 인턴십 진행 중 (SaladLab Inc)
 진행했던 프로젝트 및 대내외 활동을 공유합니다.
 
 #### 블로그 : https://taemian.tistory.com/
@@ -106,11 +106,7 @@
 ![TOPCIT](https://github.com/yongjjang/Portfolio/blob/master/3rd%20year%202nd%20semester/TOPCIT.PNG)
 
 ### 정보처리기사
-- ~~2020년 1회 정보처리기사 필기 시험 코로나로 인해 연기~~
-- 2020년 2회 정보처리기사 필기 시험 합격
-
-- 2020년 07월 25일 정보처리기사 실기 시험 예정
-
+- 2020년 08월 28일 정보처리기사 합격
 
 ## 연구실 활동
 - ROS(Robot Operating System; 로봇 제어를 위한 메타 운영체제)
